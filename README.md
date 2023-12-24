@@ -1,1 +1,1 @@
-# docker-rep2-letsencrypt-mydns
+WIKI参照
